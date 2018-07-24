@@ -1,2 +1,4 @@
 1.0.1:
     - First version of Google Tag Manager (GTM) plugin.
+1.0.2:
+    - Support composer.

@@ -1,0 +1,16 @@
+{
+    "name": "alekseyp/googletagmanager-plugin",
+    "type": "october-plugin",
+    "description": "Google Tag manager plugin for October CMS.",
+    "keywords": ["october", "cms", "gtm", "google", "tagmanager"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "AlekseyP"
+        }
+    ],
+    "require": {
+        "php": ">=5.4",
+        "composer/installers": "~1.0"
+    }
+}
